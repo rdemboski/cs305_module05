@@ -1,3 +1,3 @@
-To contribute to this repository, simply contact me that you would like to push an update to this repo and I will add you as a contributor.
+To contribute to this repository, simply contact me that you would like to push an update to this repo and I will add you as a collaborator.
 
 The contributors so far are: Ryan Demboski
