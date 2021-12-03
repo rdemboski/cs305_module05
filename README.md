@@ -4,3 +4,6 @@ I liked working on my CS-386 team project. It is called Social Square and is a s
 The license I will use for this repository is the MIT license which permits commercial use, modification, distribution, and private use. It does not cover liability or warranty.
 ## Sub-heading about hypothetical module
 Aaron Santiago created this ^ to complete question 11. 
+
+## Subheading for pull request
+Implemented by Wesley Blair
