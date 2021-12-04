@@ -7,3 +7,6 @@ Aaron Santiago created this ^ to complete question 11.
 
 ## Subheading for pull request
 Implemented by Wesley Blair
+
+## Subheading for pull request
+Justin Terryberry
